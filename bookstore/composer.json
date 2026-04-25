@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/bookstore",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "student",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
